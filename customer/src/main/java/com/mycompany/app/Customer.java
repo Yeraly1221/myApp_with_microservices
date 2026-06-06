@@ -1,8 +1,8 @@
 package com.mycompany.app;
 
-
 import jakarta.persistence.*;
 import lombok.*;
+
 
 @Getter
 @Setter
